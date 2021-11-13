@@ -1,7 +1,7 @@
 const CONFIGDATA = {
   titleHeader: "em đồng ý quay lại với anh nha?",
   descriptionHeader:
-    "Nếu em thoát ra và không trả lời thì có nghĩa là em đã ĐỒNG Ý rồi đấy ^^",
+    "Nếu em thoát ra và không trả lời thì có nghĩa là em đã ĐỒNG Ý rồi đấy ",
   buttonYes: "Đồng Ý",
   buttonNo: "Không! Còn lâu.",
   titleModar: "Cảm ơn bé xoài vì đồng ý <3",
